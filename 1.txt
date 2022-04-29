@@ -3,3 +3,4 @@
 добавили 3ю строку newbranch
 добавили 4ю строку newbranch
 добавили 5ю строку newbranch
+добавили 6ю строку newbranch
