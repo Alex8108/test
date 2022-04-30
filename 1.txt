@@ -8,3 +8,5 @@
 добавили 5ю строку newbranch
 добавили 6ю строку newbranch
 добавили 7ю строку newbranch
+добавили 8ю строку newbranch
+добавили 9ю строку newbranch на клиенте
